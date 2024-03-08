@@ -13,7 +13,7 @@
 	<h1>Welcome to WiseTo !</h1>
 	<nav>
 	<ul>
-<li><a href="xxx.github.io/index.html" TARGET = "_self"> Home</a></li>
+<li><a href="./" TARGET = "_self"> Home</a></li>
 
 	</ul>
 	</nav>
