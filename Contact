@@ -1,0 +1,32 @@
+
+
+<HTML>
+<head>
+<link rel="stylesheet" type="text/css" href="styles2.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact wisetoca</title>
+</head>
+<body>
+	<header>
+	<h1>Welcome to WiseTo !</h1>
+	<nav>
+	<ul>
+<li><a href="web_form_test3.html" TARGET = "_self"> Home</a></li>
+
+	</ul>
+	</nav>
+	</header>
+<br>
+<br>	
+<h4> Please send your questions to us @ wisetoca@gmail.com </h4>
+<br>
+<br>	
+
+<footer>
+<p>&copy; 2024 a WiseToca website. All rights reserved.</p>
+</footer>
+
+</body>
+</HTML>
