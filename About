@@ -1,0 +1,34 @@
+
+
+<HTML>
+<head>
+<link rel="stylesheet" type="text/css" href="styles2.css">
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about wisetoca - this is the way</title>
+</head>
+<body>
+	<header>
+	<h1>Welcome to WiseTo !</h1>
+	<nav>
+	<ul>
+<li><a href="web_form_test3.html" TARGET = "_self"> Home</a></li>
+
+	</ul>
+	</nav>
+	</header>
+<br>
+<br>
+<p>
+<i>"At WiseTo, we're dedicated to empowering Torontonians to lead fulfilling lives through daily financial awareness. We believe that understanding and managing your finances effectively is key to unlocking opportunities and achieving your goals. Our platform offers a wealth of resources, from expert advice and educational content to practical tools, saving tips and personalized solutions. Whether you're looking to save for the future, navigate investments we're here to support you every step of the way. Join us on the journey to well-being and discover the freedom and peace of mind that comes from taking control of your financial future."<i>
+</p>	
+<br>
+<br>	
+
+<footer>
+<p>&copy; 2024 a wisetoca website. All rights reserved.</p>
+</footer>
+
+</body>
+</HTML>
