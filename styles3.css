@@ -1,0 +1,121 @@
+/* Reset default styles */
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+
+body {
+font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
+background-color: #fff;
+}
+
+header {
+background-color: #007aff;
+color: #fff;
+padding: 10px;
+text-align: center;
+}
+
+nav ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
+
+nav ul li {
+display: inline;
+margin-right: 10px;
+}
+
+nav ul li a {
+color: #fff;
+text-decoration: none;
+}
+
+section {
+padding: 20px;
+}
+
+h1, h2, h3 {
+color: #333;
+}
+
+p {
+color: #333;
+}
+
+#weather-box {
+background-color: #fff;
+border-radius: 10px;
+padding: 20px;
+margin-top: 20px;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#weather-info {
+font-weight: bold;
+color: #333;
+}
+form {
+            max-width: 400px;
+            margin: 0 auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+label {
+            display: block;
+            margin-bottom: 8px;
+}
+input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+}
+button {
+            background: #4caf50;
+            color: #fff;
+            padding: 10px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+}
+
+table {
+    width: 15%;
+    border-collapse: collapse;
+	margin-left: 20px; /* Add margin to the left */
+}
+th {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+	font-size: 12px; /* Adjust the font size as needed */
+	height: 10px; /* Adjust the width of the header row */
+}
+th {
+    background-color: #C4DCEC;
+    color: #007aff;
+}
+.blue-col {
+    background-color: #C4DCEC;
+    color: #007aff;
+}
+td {
+    padding: 8px; /* optional: keep padding consistent */
+    height: 5px; /* Adjust the height of the rows */
+	font-size:12px; /* Adjust the font size as needed */
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	color: #11f;
+}
+
+h4 {
+	color: #007aff;
+	font-size: 14px;
+	    width: 25%;
+}
