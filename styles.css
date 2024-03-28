@@ -79,13 +79,13 @@ text-decoration: none;
 }
 
 .teal {
-	flex: 1 1 5%;
+	flex: 1 1 2.5%;
     background-color: #bce6dd;
     color: white;
 }
 
 .wide {
-	flex: 1 1 50%;
+	flex: 1 1 60%;
 	/*width: 80%; */
     background-color: white;
     /*grid-column: span 5; /* Adjusted width to span 5 columns */
@@ -97,7 +97,7 @@ text-decoration: none;
 	font-size: 10px;
 }
 .peach {
-	flex: 1 1 15%;
+	flex: 1 1 25%;
     background-color: peachpuff;
 	display: flex;
     flex-direction: column;
