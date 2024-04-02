@@ -154,15 +154,35 @@ margin-bottom: 20px;
 }
 
 .p2 {
-color: #333;
+color: white;
 margin-bottom: 20px;
 	font-size: 20px;
+	  background-color: #569fcc; 
+}
+
+.p3 {
+color: #333;
+margin-bottom: 20px;
+	font-size: 14px;
+    text-align: left;
+	color: white;
 }
 
 .image-box img {
         width: 175px; /* Adjust the width as needed */
         height: 100px; /* Maintain aspect ratio */
-		opacity: 0.8; /* Adjust the opacity level (0.0 to 1.0) */
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
 }
 
 form {
@@ -195,3 +215,7 @@ button {
 
 }
 
+    h3 {
+      text-align: left;
+	  color: white;
+    }
