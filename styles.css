@@ -47,7 +47,7 @@ header .menu {
 }
 
 .hero {
-    background: url('https://github.com/rdb008/Wise-to-ex/blob/new_look3/docs/assets/images/C3.JPG') no-repeat center center/cover;
+    background: url("..docs/assets/images/C3.JPG") no-repeat center center/cover;
     color: #000;
     text-align: center;
     padding: 100px 20px;
