@@ -142,7 +142,7 @@ header .menu {
 
 .about .about-image {
     flex: 1;
-    background: url('./docs/assets/images/C1.jpg') no-repeat center center/cover;
+    background: url('./docs/assets/images/C1.JPG') no-repeat center center/cover;
 		    background-size: cover; /* Ensures the image covers the entire section */
 
 }
@@ -166,7 +166,7 @@ header .menu {
 }
 .about .about-image2 {
     flex: 1;
-    background: url('./docs/assets/images/C2.jpg') no-repeat center center/cover;
+    background: url('./docs/assets/images/C2.JPG') no-repeat center center/cover;
 	color: #fff;
     text-align: center-left;
 		    background-size: cover; /* Ensures the image covers the entire section */
